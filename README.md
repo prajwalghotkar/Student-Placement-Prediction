@@ -1,6 +1,5 @@
 # Student Placement Prediction
 
-#### Objective :
 #### The goal of this project is to build a machine learning model that predicts whether a student will be placed (1) or not placed (0) based on their CGPA (Cumulative Grade 
   Point Average) and IQ score. The dataset contains 100 samples with three features: cgpa, iq, and placement (target variable).
 
